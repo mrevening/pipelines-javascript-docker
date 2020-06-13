@@ -13,6 +13,9 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+# Status badge
+[![Build Status](https://dev.azure.com/dominicwieczo/pipelines-javascript-docker/_apis/build/status/mrevening.pipelines-javascript-docker?branchName=master)](https://dev.azure.com/dominicwieczo/pipelines-javascript-docker/_build/latest?definitionId=2&branchName=master)
+
 # Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
